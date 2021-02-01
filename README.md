@@ -1,2 +1,4 @@
 # ml_algo
-ML Algorithms
+kumpulan algoritma ml buat kuliah if3120
+
+pake bahasa python
